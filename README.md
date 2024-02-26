@@ -12,4 +12,5 @@ Use Python lists and dictionaries: Employ Python lists and dictionaries effectiv
 Make Python functions: Implement modular and reusable code by creating Python functions that encapsulate specific tasks or operations related to data retrieval and manipulation.
 
 Project Overview:
+
 The project involves accessing a public API to retrieve data, which is then processed and manipulated using Python. The data retrieved may be nested in JSON format, requiring parsing and extraction of relevant information. Python lists and dictionaries are used to store and organize the retrieved data, enabling further analysis or presentation as needed. Additionally, functions are implemented to streamline the data retrieval and manipulation processes
